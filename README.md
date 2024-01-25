@@ -15,3 +15,4 @@ Buenos dias cuál es su nombre? Cristóbal Colón
 ¡Pero a este tipo que le pasa!
 Y cuando nació? El 5 pero por problemas de lluvia fue el 6
 ¿Usted es tonto o que? Unos dicen que si otros que no pero yo creo que si.
+FIN.
