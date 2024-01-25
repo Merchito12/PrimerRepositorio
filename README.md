@@ -1,4 +1,1 @@
-# PrimerRepositorio
-pablito y su computadora
-pablito compro un clavito
-ab
+LOS DOS LOCOS 
