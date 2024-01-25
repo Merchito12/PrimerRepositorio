@@ -1,4 +1,2 @@
 # PrimerRepositorio
-
-
-Hola soy julian
+Pablito y su computadora :)
